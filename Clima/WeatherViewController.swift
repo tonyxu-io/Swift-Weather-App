@@ -136,21 +136,6 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate {
         cityLabel.text = "Location Unavailable"
     }
     
-
-    
-    //MARK: - Change City Delegate methods
-    /***************************************************************/
-    
-    
-    //Write the userEnteredANewCityName Delegate method here:
-    
-
-    
-    //Write the PrepareForSegue Method here
-    
-    
-    
-    
     
 }
 
